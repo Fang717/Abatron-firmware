@@ -1,8 +1,19 @@
-Abatron firmware for BDI1000 and BDI2000 and BDI3000.
-Abatron’s debug tools were the top of the line when they were first introduced.
-The BDI3000 was the final version of the BDI family of debug probes. It replaced the BDI2000 on April 15th, 2008, which itself had replaced the BDI1000.
-Abatron announced the "End of Life" for its BDI Products on March 9th, 2015.
-BDI2000 Hardware information is included.
+# Abatron BDI Firmware & Hardware Archive – BDI1000, BDI2000, BDI3000
+This repository collects firmware, documentation, and hardware details for the Abatron BDI series of JTAG debug probes: BDI1000, BDI2000, and BDI3000.
 
+Abatron's BDI probes were industry-leading tools for embedded debugging, widely used in professional environments for ARM, PowerPC, and MIPS platforms. The BDI3000, introduced on April 15, 2008, was the final model in the product line, succeeding the BDI2000 and BDI1000.
 
+Key contents include:
+
+- Firmware files for BDI1000, BDI2000, and BDI3000
+
+- Hardware information for BDI2000 units
+
+- Historical notes and lifecycle data
+
+- Useful for restoration, reverse engineering, or archival purposes
+
+**Note:** Abatron officially announced the **End of Life (EOL)** for all BDI products on **March 9, 2015**.
+
+This repository aims to preserve the legacy of Abatron’s tools and support ongoing development or recovery efforts by the embedded community.
 
